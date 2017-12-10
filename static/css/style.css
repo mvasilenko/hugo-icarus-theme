@@ -116,14 +116,15 @@ body,
   height: 100%;
 }
 body {
+
+  color: #565a5f;
   /*
   coral FF7F50
   palegreen 98FB98
   royalblue 4169E1
   white ffffff
   */
-  color: #565a5f;
-  background: #4169E1;
+  background: #ffffff;
   font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
